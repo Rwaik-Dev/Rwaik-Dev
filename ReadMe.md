@@ -108,7 +108,7 @@ Também trabalho com processamento de dados em Python, geração de documentos P
 ## 📫 Contato
 
 - **GitHub:** [github.com/Rwaik-Dev](https://github.com/Rwaik-Dev)
-- **LinkedIn:** [Adicionar perfil profissional](https://www.linkedin.com/in/rwaik/)
+- **LinkedIn:** [Wilker Rwaik Eloi](https://www.linkedin.com/in/rwaik/)
 
 ---
 
